@@ -1,7 +1,13 @@
+<p align="center">
+  <img width="200" src="https://i.imgur.com/EK8thVd.png" alt="drawing">
+</p>
+
+
 # transport-employees
 A project for helping employers find the best commute options for their employees.
 
 Created for the [15 Minutes – Public Transportation Alliance](https://15minutes.co.il/en/15-minutes-public-transportation-alliance/) orgnization.
+
 
 ## Usage
 1. Download the  'trans_script.py' file
